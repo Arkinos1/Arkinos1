@@ -1,4 +1,9 @@
----                   
+## Arkinos1 Here !
+
+---
+<div align="center">
+#### I am currently studying at Epitech Paris (1st year)
+---
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Arkinos1&theme=react&layout=compact" width="480">
 </p>
