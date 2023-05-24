@@ -3,7 +3,7 @@
 ---
 <div align="center">
 
-#### I am currently studying at Epitech Paris (1st year)
+#### I am currently studying at Epitech Paris (2st year)
 
 ---
 <p align = "left">
